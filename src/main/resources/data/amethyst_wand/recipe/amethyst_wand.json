@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #D",
+    "DA#",
+    "AD "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:emerald"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "amethyst_wand:amethyst_wand",
+    "count": 1
+  }
+}
